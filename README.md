@@ -1,2 +1,2 @@
 # CodInGame_Easy
-Solving "Easy" puzzles
+"Easy" puzzles solutions
